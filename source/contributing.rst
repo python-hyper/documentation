@@ -127,7 +127,7 @@ report using the guidelines in the :ref:`bug-reports` section.
 If you've done this but want to get contributing right away, you can take
 advantage of the fact that all Hyper projects use a continuous integration
 system. This will automatically run the tests against any pull request raised
-against any ``hyper`` repository. The continuous integration system treats a
+against any hyper repository. The continuous integration system treats a
 regression in code coverage as a failure of the test suite.
 
 Before a contribution is merged it must have a green run through the CI system.
