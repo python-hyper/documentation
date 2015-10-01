@@ -19,7 +19,8 @@ The hyper project is comprised of the following sub-projects:
 Please follow the links above for more details on each of those sub-projects.
 The rest of this documentation applies to the project as a whole.
 
-Contents:
+Contents
+--------
 
 .. toctree::
    :maxdepth: 2
