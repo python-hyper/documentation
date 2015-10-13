@@ -11,10 +11,11 @@ specific requirements.
 
 The hyper project is comprised of the following sub-projects:
 
-- hyper-h2, a complete HTTP/2 protocol stack that does not perform any I/O,
+- `hyper-h2`_, a complete HTTP/2 protocol stack that does not perform any I/O,
   intended to be independent of framework.
-- hyperframe, a HTTP/2 framing layer.
-- hpack, a HPACK implementation in pure-Python.
+- `hyperframe`_, a HTTP/2 framing layer.
+- `hpack`_, a HPACK implementation in pure-Python.
+- `brotlipy`_, a CFFI-based library for Brotli compression.
 
 Please follow the links above for more details on each of those sub-projects.
 The rest of this documentation applies to the project as a whole.
@@ -26,3 +27,9 @@ Contents
    :maxdepth: 2
 
    contributing
+
+
+.. _hyper-h2: http://python-hyper.org/h2/
+.. _hyperframe: http://python-hyper.org/hyperframe/
+.. _hpack: http://python-hyper.org/hpack/
+.. _brotlipy: http://python-hyper.org/brotlipy/
