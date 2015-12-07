@@ -16,6 +16,7 @@ The hyper project is comprised of the following sub-projects:
 - `hyperframe`_, a HTTP/2 framing layer.
 - `hpack`_, a HPACK implementation in pure-Python.
 - `brotlipy`_, a CFFI-based library for Brotli compression.
+- `priority`_, a Python implementation of the HTTP/2 Priority tree.
 
 Please follow the links above for more details on each of those sub-projects.
 The rest of this documentation applies to the project as a whole.
@@ -33,3 +34,4 @@ Contents
 .. _hyperframe: http://python-hyper.org/hyperframe/
 .. _hpack: http://python-hyper.org/hpack/
 .. _brotlipy: http://python-hyper.org/brotlipy/
+.. _priority: http://python-hyper.org/priority/
