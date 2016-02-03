@@ -194,6 +194,12 @@ asking for help on IRC.
 
 Please also check the :ref:`early-feedback` section.
 
+Security
+~~~~~~~~
+
+We have a security policy we take very seriously. Please read :doc:`security`
+for more details.
+
 Documentation Contributions
 ---------------------------
 
