@@ -28,6 +28,7 @@ Contents
    :maxdepth: 2
 
    contributing
+   security
 
 
 .. _hyper-h2: http://python-hyper.org/h2/
