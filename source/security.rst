@@ -21,7 +21,7 @@ maintainers:
   project is to be resisted.
 - We will react swiftly to being notified of security vulnerabilities.
 - When notified of security vulnerabilities we will treat them all as serious
-  incidents until otherwise determined: *there is no such thing as a
+  incidents until otherwise determined: *there is no such thing as a low
   severity security bug*.
 - We will work with downstream maintainers to backport patches to all versions
   of the software that are affected by a vulnerability, regardless of whether
