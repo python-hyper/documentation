@@ -119,3 +119,7 @@ We will also explicitly mention which commits contain the fix to make it easier
 for other distributors and users to easily patch their own versions of the
 project if upgrading is not an option. We will also work with downstream
 distributors to patch their software.
+
+
+.. _tough and competent: https://www.youtube.com/watch?v=9zjAteaK9lM
+.. _Lukasa: mailto:cory@lukasa.co.uk
