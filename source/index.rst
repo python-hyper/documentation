@@ -28,6 +28,7 @@ Contents
    :maxdepth: 2
 
    contributing
+   one-of-the-team
    security
 
 
