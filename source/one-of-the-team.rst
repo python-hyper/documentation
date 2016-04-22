@@ -29,9 +29,9 @@ merge pull requests and close bug reports. These can potentially give
 mischevious or malicious individuals the ability to cause a great deal of
 annoyance for everyone else.
 
-That's not a reason to share these powers: we believe our community is full of
-reasonable people who care about working well together. However, it does mean
-we need to provide *some* guidance about how to work together.
+That's not a reason not to share these powers: we believe our community is full
+of reasonable people who care about working well together. However, it does
+mean we need to provide *some* guidance about how to work together.
 
 Here is what we expect of our contributors:
 
