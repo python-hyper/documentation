@@ -21,6 +21,34 @@ However, if you want a corner of the open source ecosystem to feel at home, we
 want you to feel that way here. You should get as involved as you feel
 comfortable with.
 
+Responsibility
+--------------
+
+Becoming a contributor grants you quite a lot of power: in particular, you can
+merge pull requests and close bug reports. These can potentially give
+mischevious or malicious individuals the ability to cause a great deal of
+annoyance for everyone else.
+
+That's not a reason to share these powers: we believe our community is full of
+reasonable people who care about working well together. However, it does mean
+we need to provide *some* guidance about how to work together.
+
+Here is what we expect of our contributors:
+
+- Please don't merge pull requests unless a maintainer or administrator has
+  OK'd the change. We want to work as a team, but the maintainers are
+  responsible for the 'spirit' of the project, and often have a better
+  understanding of its needs than new contributors.
+- Please don't merge your own pull requests. Code review is important, and
+  skipping it is bad.
+- You need to follow our code of conduct, as outlined in our
+  :doc:`contributing` policy.
+
+Contributors who repeatedly fail to meet these three points will have their
+contribution privileges removed. The goal here is to build a team of people who
+work together to a common end: people who aren't interested in that will need
+to find a home elsewhere.
+
 Maintainers
 -----------
 
