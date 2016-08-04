@@ -34,6 +34,26 @@ maintainers:
   cause warnings to be issued when used.
 
 
+Known Vulnerabilities
+---------------------
+
+This section of the page contains all known vulnerabilities in all libraries
+that make up the Python Hyper project. These vulnerabilities have all been
+reported to us via our :ref:`vulnerability disclosure policy
+<vulnerability-disclosure>`.
+
++----+---------------------------+----------------+----------+---------------+--------------+---------------+
+| \# |       Vulnerability       | Date Announced | Library  | First Version | Last Version |      CVE      |
++====+===========================+================+==========+===============+==============+===============+
+| 2  | `HPACK Bomb`_             | 2016-08-04     | HPACK    | 1.0.0         | 2.2.0        | CVE-2016-6581 |
++----+---------------------------+----------------+----------+---------------+--------------+---------------+
+| 1  | `DoS via unlimited stream | 2016-08-04     | Priority | 1.0.0         | 1.1.1        | CVE-2016-6580 |
+|    | insertion`_               |                |          |               |              |               |
++----+---------------------------+----------------+----------+---------------+--------------+---------------+
+
+
+.. _vulnerability-disclosure:
+
 Vulnerability Disclosure
 ------------------------
 
@@ -123,3 +143,5 @@ distributors to patch their software.
 
 .. _tough and competent: https://www.youtube.com/watch?v=9zjAteaK9lM
 .. _Lukasa: mailto:cory@lukasa.co.uk
+.. _HPACK Bomb: http://python-hyper.org/hpack/en/latest/security/CVE-2016-6581.html
+.. _DoS via unlimited stream insertion: http://python-hyper.org/priority/en/latest/security/CVE-2016-6580.html
