@@ -143,5 +143,5 @@ distributors to patch their software.
 
 .. _tough and competent: https://www.youtube.com/watch?v=9zjAteaK9lM
 .. _Lukasa: mailto:cory@lukasa.co.uk
-.. _HPACK Bomb: http://python-hyper.org/hpack/en/latest/security/CVE-2016-6581.html
-.. _DoS via unlimited stream insertion: http://python-hyper.org/priority/en/latest/security/CVE-2016-6580.html
+.. _HPACK Bomb: https://python-hyper.org/hpack/en/latest/security/CVE-2016-6581.html
+.. _DoS via unlimited stream insertion: https://python-hyper.org/priority/en/latest/security/CVE-2016-6580.html
