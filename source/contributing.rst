@@ -28,7 +28,7 @@ Code Of Conduct
 ---------------
 
 The following code of conduct applies to all projects that are under the
-hyper project umbrella.
+umbrella of the hyper project.
 
 Our Pledge
 ~~~~~~~~~~
