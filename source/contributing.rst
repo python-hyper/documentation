@@ -1,28 +1,34 @@
 Contributing
 ============
 
-If you’re reading this you’re probably interested in contributing to one of the
-Hyper projects! First, we'd like to say thankyou! Projects like this one
+If you’re reading this, you’re probably interested in contributing to one of the
+Hyper projects! First, we'd like to say thank you! Projects like this one
 live-and-die based on the support they receive from others, and the fact that
 you’re even considering supporting the Hyper project is incredibly generous of
 you.
 
 This document lays out general guidelines and advice for contributing to any of
-the Hyper projects. If you’re thinking of contributing, start by reading this
-thoroughly and getting a feel for how contributing to the project works. If
+the Hyper projects. If you’re thinking of helping, start by reading this
+thoroughly and getting a feel for how the project works. If
 you’ve still got questions after reading this, please ask us in IRC: we'd be
 happy to clarify any questions you may have.
 
-The guide is split into sections based on the type of contribution you’re
-thinking of making, with a section that covers general guidelines for all
-contributors. Additionally, there is a section to cover our code of conduct,
-which applies to all contributions of any kind.
+We've organized this guide into sections:
+
+- our code of conduct, which applies to all contributions of any kind
+- general guidelines for all contributors
+- specific information based on the type of contribution you’re
+  thinking of making
+       - code contributions
+       - documentation
+       - bug reports
+       - feature requests
 
 Code Of Conduct
 ---------------
 
 The following code of conduct applies to all projects that are under the
-umbrella of the hyper project.
+hyper project umbrella.
 
 Our Pledge
 ~~~~~~~~~~
@@ -118,9 +124,9 @@ into a contribution that is not suitable for the project.
 Contribution Suitablility
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The maintainers of the specific sub-project have the last word on whether or
-not a contribution is suitable for that project. All contributions will be
-considered, but from time to time contributions will be rejected because they
+The maintainers of a sub-project have the last word on whether or
+not a contribution is suitable for that project. We consider all contributions,
+but from time to time contributions will be rejected because they
 do not suit the project.
 
 If necessary, a contributor should feel free to ask maintainers of other hyper
@@ -167,11 +173,11 @@ report using the guidelines in the :ref:`bug-reports` section.
 
 If you've done this but want to get contributing right away, you can take
 advantage of the fact that all Hyper projects use a continuous integration
-system. This will automatically run the tests against any pull request raised
-against any Hyper repository. The continuous integration system treats a
-regression in code coverage as a failure of the test suite.
+system. This system will automatically run the tests against any pull request
+raised against any Hyper repository. The continuous integration system treats
+a regression in code coverage as a failure of the test suite.
 
-Before a contribution is merged it must have a green run through the CI system.
+Before a contribution is merged, it must have a green run through the CI system.
 
 .. _tox: http://tox.readthedocs.org/en/latest/
 
@@ -179,10 +185,10 @@ Code Review
 ~~~~~~~~~~~
 
 Contributions will not be merged until they've been code reviewed. You should
-implement any code review feedback unless you strongly object to it. In the
-event that you object to the code review feedback, you should make your case
-clearly and calmly. If, after doing so, the feedback is judged to still apply,
-you must either apply the feedback or withdraw your contribution.
+implement any code review feedback unless you strongly object to it. If
+you object to the code review feedback, you should make your case
+clearly and calmly. If, after doing so, the feedback is judged to apply still,
+you must either incorporate the feedback or withdraw your contribution.
 
 New Contributors
 ~~~~~~~~~~~~~~~~
@@ -210,7 +216,7 @@ project, and the general documentation for the project as a whole live in the
 `Sphinx`_ to generate the full suite of documentation.
 
 When contributing documentation, please attempt to follow the style of the
-documentation files. This means a soft-limit of 79 characters wide in your text
+documentation files. Use a soft-limit of 79 characters wide in your text
 files and a semi-formal prose style.
 
 
