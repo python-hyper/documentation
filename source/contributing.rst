@@ -121,8 +121,8 @@ version of your contribution for feedback in no way prejudices your chances of
 getting that contribution accepted, and can save you from putting a lot of work
 into a contribution that is not suitable for the project.
 
-Contribution Suitablility
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Contribution Suitability
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 The maintainers of a sub-project have the last word on whether or
 not a contribution is suitable for that project. We consider all contributions,
