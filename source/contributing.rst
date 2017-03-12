@@ -19,10 +19,10 @@ We've organized this guide into sections:
 - general guidelines for all contributors
 - specific information based on the type of contribution you’re
   thinking of making
-       - code contributions
-       - documentation
-       - bug reports
-       - feature requests
+       - :ref:`code-contributions`
+       - :ref:`documentation-contributions`
+       - :ref:`bug-reports`
+       - :ref:`feature-requests`
 
 Code Of Conduct
 ---------------
@@ -137,6 +137,9 @@ If your contribution is rejected, don’t despair! So long as you followed these
 guidelines, you’ll have a much better chance of getting your next contribution
 accepted.
 
+
+.. _code-contributions:
+
 Code Contributions
 ------------------
 
@@ -206,6 +209,9 @@ Security
 We have a security policy we take very seriously. Please read :doc:`security`
 for more details.
 
+
+.. _documentation-contributions:
+
 Documentation Contributions
 ---------------------------
 
@@ -231,6 +237,8 @@ confirm that the bug hasn't been reported before. Duplicate bug reports are a
 huge drain on the time of other contributors, and should be avoided as much as
 possible.
 
+
+.. _feature-requests:
 
 Feature Requests
 ----------------
