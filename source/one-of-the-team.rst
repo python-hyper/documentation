@@ -26,7 +26,7 @@ Responsibility
 
 Becoming a contributor grants you quite a lot of power: in particular, you can
 merge pull requests and close bug reports. These can potentially give
-mischevious or malicious individuals the ability to cause a great deal of
+mischievous or malicious individuals the ability to cause a great deal of
 annoyance for everyone else.
 
 That's not a reason not to share these powers: we believe our community is full
