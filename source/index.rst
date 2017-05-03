@@ -17,6 +17,8 @@ The hyper project is comprised of the following sub-projects:
 - `hpack`_, a HPACK implementation in pure-Python.
 - `brotlipy`_, a CFFI-based library for Brotli compression.
 - `priority`_, a Python implementation of the HTTP/2 Priority tree.
+- `wsproto`_, an implementation of the WebSocket protocol that, like
+  `hyper-h2`_, does not perform any I/O.
 
 Please follow the links above for more details on each of those sub-projects.
 The rest of this documentation applies to the project as a whole.
@@ -37,3 +39,4 @@ Contents
 .. _hpack: https://python-hyper.org/hpack/
 .. _brotlipy: https://python-hyper.org/brotlipy/
 .. _priority: https://python-hyper.org/priority/
+.. _wsproto: https://wsproto.readthedocs.org/
