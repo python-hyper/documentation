@@ -1,5 +1,5 @@
-Hyper: HTTP/2 for Python
-========================
+python-hyper: Low-Level HTTP-related Libraries for Python
+=========================================================
 
 Hyper is a set of related projects that provide HTTP/2 functionality to Python
 projects. The aim is to provide a complete HTTP and HTTP/2 toolbox, ranging
