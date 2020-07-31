@@ -34,9 +34,9 @@ Contents
    security
 
 
-.. _hyper-h2: https://python-hyper.org/h2/
-.. _hyperframe: https://python-hyper.org/hyperframe/
-.. _hpack: https://python-hyper.org/hpack/
-.. _brotlipy: https://python-hyper.org/brotlipy/
-.. _priority: https://python-hyper.org/priority/
+.. _hyper-h2: https://python-hyper.org/projects/h2/en/stable
+.. _hyperframe: https://python-hyper.org/projects/hyperframe/en/stable
+.. _hpack: https://python-hyper.org/projects/hpack/en/stable
+.. _brotlipy: https://python-hyper.org/projects/brotlipy/en/stable
+.. _priority: https://python-hyper.org/projects/priority/en/stable
 .. _wsproto: https://wsproto.readthedocs.org/
