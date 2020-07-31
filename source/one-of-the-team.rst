@@ -71,4 +71,4 @@ Maintainers are stewards of culture, as much as they are of code.
 
 
 .. _GitHub organisation: https://github.com/python-hyper
-.. _contributors team: https://github.com/orgs/python-hyper/teams/contributors
+.. _contributors team: https://github.com/orgs/python-hyper/people

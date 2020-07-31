@@ -199,9 +199,11 @@ New Contributors
 If you are new or relatively new to Open Source, welcome! The Hyper project
 aims to be a gentle introduction to the world of Open Source. If you're
 concerned about how best to contribute, please consider mailing a maintainer or
-asking for help on IRC.
+asking for help on our `Gitter community`_.
 
 Please also check the :ref:`early-feedback` section.
+
+.. _Gitter community: https://gitter.im/python-hyper/community
 
 Security
 ~~~~~~~~
