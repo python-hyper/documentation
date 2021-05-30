@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300mm" version="1.1" viewBox="0 0 894.8 528.58"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <metadata>
+      <rdf:RDF>
+         <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title/>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <rect width="100%" height="100%" fill="#ffffff"/>
+   <g transform="translate(-80 -283.78)" fill="none" stroke="#b40000" stroke-width="15">
+      <path d="m258.02 397.96s540-240 700 0"/>
+      <path d="m258.02 397.96s540-240 700 0"/>
+      <path d="m786.53 700.56s-541.81 235.88-699.98-5.338"/>
+   </g>
+   <g transform="translate(-80 -283.78)" fill="#000000" letter-spacing="0px" stroke-width="1px" word-spacing="0px">
+      <text transform="scale(1.0262 .97446)" x="83.049126" y="648.26019" font-family="Baskerville" font-size="474.69px" font-style="italic" style="line-height:125%" xml:space="preserve">
+         <tspan x="83.049126" y="648.26019" fill="#000000">hyper</tspan>
+      </text>
+      <flowRoot font-family="sans-serif" font-size="40px" style="line-height:125%" xml:space="preserve">
+         <flowRegion>
+            <rect x="520" y="492.36" width="280" height="60"/>
+         </flowRegion>
+         <flowPara/>
+      </flowRoot>
+   </g>
+</svg>
